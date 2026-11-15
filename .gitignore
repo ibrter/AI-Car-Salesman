@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB database
+cars_db/
+
+# Operating system
+.DS_Store
+Thumbs.db
